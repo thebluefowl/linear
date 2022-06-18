@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.3"
+  },
+  "name": "bezier",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Vishnu Jayadevan",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "graphql-request": "^4.3.0"
+  }
+}
